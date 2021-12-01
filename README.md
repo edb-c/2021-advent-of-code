@@ -1,1 +1,1 @@
-Advent of Code 2021
+My not fancy attempts to partake in Advent of Code 2021.
